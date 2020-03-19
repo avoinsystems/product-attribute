@@ -1,0 +1,106 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_template_tags
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Tuomo Aura <tuomo.aura@web-veistamo.fi>\n"
+"Language: fi\n"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__products_count
+msgid "# of Products"
+msgstr "Tuotteiden määrä"
+
+#. module: product_template_tags
+#: model_terms:ir.actions.act_window,help:product_template_tags.product_template_tag_act_window
+msgid "Add tags"
+msgstr "Lisää tunnisteet"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__color
+msgid "Color Index"
+msgstr "Värikoodi"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__company_id
+#: model_terms:ir.ui.view,arch_db:product_template_tags.product_template_tag_search_view
+msgid "Company"
+msgstr "Yritys"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__create_uid
+msgid "Created by"
+msgstr "Luoja"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__create_date
+msgid "Created on"
+msgstr "Luotu"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__display_name
+msgid "Display Name"
+msgstr "Näyttönimi"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__id
+msgid "ID"
+msgstr "ID"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag____last_update
+msgid "Last Modified on"
+msgstr "Viimeinen muokkaus"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__write_uid
+msgid "Last Updated by"
+msgstr "Viimeinen päivittäjä"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__write_date
+msgid "Last Updated on"
+msgstr "Viimeinen päivitys"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__name
+msgid "Name"
+msgstr "Nimi"
+
+#. module: product_template_tags
+#: model:ir.model,name:product_template_tags.model_product_template_tag
+msgid "Product Tag"
+msgstr "Tuotetunniste"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_product__tag_ids
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template__tag_ids
+#: model:ir.ui.menu,name:product_template_tags.product_template_tag_config_menu
+msgid "Product Tags"
+msgstr "Tuotteen tunnisteet"
+
+#. module: product_template_tags
+#: model:ir.model,name:product_template_tags.model_product_template
+msgid "Product Template"
+msgstr "Tuotemalli"
+
+#. module: product_template_tags
+#: model:ir.actions.act_window,name:product_template_tags.product_template_tag_act_window
+msgid "Product Template Tag"
+msgstr "Tuotemallin tunniste"
+
+#. module: product_template_tags
+#: model:ir.model.fields,field_description:product_template_tags.field_product_template_tag__product_tmpl_ids
+msgid "Products"
+msgstr "Tuotteet"

@@ -1,0 +1,41 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_multi_category
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Tuomo Aura <tuomo.aura@web-veistamo.fi>\n"
+"Language: fi\n"
+
+#. module: product_multi_category
+#: model:ir.model.fields,field_description:product_multi_category.field_product_product__categ_ids
+#: model:ir.model.fields,field_description:product_multi_category.field_product_template__categ_ids
+msgid "Extra categories"
+msgstr "Lisäkategoriat"
+
+#. module: product_multi_category
+#: model:ir.model.fields,field_description:product_multi_category.field_product_product__categ_id
+#: model:ir.model.fields,field_description:product_multi_category.field_product_template__categ_id
+msgid "Pricing/Primary Category"
+msgstr "Hinnoittelu/ensisijainen kategoria"
+
+#. module: product_multi_category
+#: model:ir.model,name:product_multi_category.model_product_template
+msgid "Product Template"
+msgstr "Tuotemalli"
+
+#. module: product_multi_category
+#: model:ir.model.fields,help:product_multi_category.field_product_product__categ_id
+#: model:ir.model.fields,help:product_multi_category.field_product_template__categ_id
+msgid "Select category for the current product"
+msgstr "Valitse kategoria kyseiselle tuotteelle"
